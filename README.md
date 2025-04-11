@@ -1,3 +1,6 @@
+
+![hcaptcha-solver](https://github.com/user-attachments/assets/9b1e69f4-698c-4aff-af7f-9bb0d5ab50b3)
+
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![SeleniumBase](https://img.shields.io/badge/seleniumbase-enabled-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
