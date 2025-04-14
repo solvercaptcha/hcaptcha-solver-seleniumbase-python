@@ -14,7 +14,7 @@ This repository contains an example of bypassing hCaptcha using the SolveCaptcha
   
 ## Overview
 
-This repository includes a single script:
+This repository includes a single script for captcha bypass:
 - **hcaptcha_solve_seleniumbase_proxy.py** — an end-to-end example that:
   - Uses the SolveCaptcha API to solve hCaptcha on [democaptcha.com](https://democaptcha.com/demo-form-eng/hcaptcha.html).
   - Optionally supports proxy configuration via `.env` file.
