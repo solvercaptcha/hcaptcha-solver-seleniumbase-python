@@ -46,4 +46,4 @@ If you have any additional questions or issues related to solving hCaptcha, plea
 
 <a href="mailto:info@solvecaptcha.com"><img src="https://github.com/user-attachments/assets/539df209-7c85-4fa5-84b4-fc22ab93fac7" width="80" height="30"></a>
 <a href="https://solvecaptcha.com/support/faq#create-ticket"><img src="https://github.com/user-attachments/assets/be044db5-2e67-46c6-8c81-04b78bd99650" width="81" height="30"></a>
-   
+<a href="https://t.me/solvecaptcha"><img src="https://telegram.org/img/t_logo.png" width="30" height="30"></a>
