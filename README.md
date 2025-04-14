@@ -109,6 +109,10 @@ Before using this code on any third-party site, **you must ensure** that your ac
 
 You are solely responsible for how you use this code.
 
+## FAQ
+
+We have also compiled the most common issues encountered when solving hCaptcha into a separate document,  [FAQ.md](./FAQ.md). In it, you will find answers to frequently asked questions.
+
 ---
 
 ## License
