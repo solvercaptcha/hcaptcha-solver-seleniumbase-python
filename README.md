@@ -99,6 +99,18 @@ API_KEY=YOUR_API_KEY
 - Proxy usage is optional and controlled via `.env`.
 - Target page: https://democaptcha.com/demo-form-eng/hcaptcha.html
 
+## Selenium Python Proxy
+
+**Selenium Python Proxy**
+
+Using a proxy when solving hCaptcha is necessary in the following cases:
+
+- **IP Address Masking:** A proxy allows you to mask your real IP address, which helps avoid blocks when too many requests originate from a single address.
+- **Consistent Request Origin:** For accurate captcha solving, it is important that all requests (both for loading the page via Selenium and for sending the captcha-solving task via the API) come from the same IP address. Therefore, it is recommended to use the same proxy for both operations.
+- **Stable Operation:** Proxies can ensure stable script performance if the primary IP is blocked or restricted due to geolocation issues.
+
+> **Recommendation:** Use identical proxy settings for both page loading and captcha solving to guarantee that both requests originate from the same source (one IP address).
+
 ## Disclaimer
 
 This project is provided for **demonstration and testing purposes only**. It is not intended to encourage or promote the circumvention of captcha systems on websites without proper authorization.
