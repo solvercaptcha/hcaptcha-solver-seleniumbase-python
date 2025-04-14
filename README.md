@@ -21,7 +21,7 @@ This repository includes a single script:
   - Controls a Chrome browser using SeleniumBase.
   - Inserts the hCaptcha token and submits the form.
  
-## Demonstration (GIF)
+## Demonstration (GIF) browser automation
 ![hcaptcha solver demonstration](https://github.com/user-attachments/assets/d1f3ba74-5b7e-4da6-a511-2e2ac8f6ced6)
 
 > ⚠️ This recording is shown at an accelerated speed for demonstration purposes.  In real usage the captcha-solving process takes longer, so please wait while the service returns a result.
