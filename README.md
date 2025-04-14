@@ -70,7 +70,7 @@ Console output will guide you through the steps:
 5. Click submit.
 6. Check for success message.
 
-## Adapting for Your Own Website
+## Adapting captcha bypass for Your Own Website
 
 To use this example on your own site, you'll need to update the captcha configuration:
 
