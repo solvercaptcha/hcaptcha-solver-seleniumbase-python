@@ -1,4 +1,4 @@
-**Frequently Asked Questions Regarding hCaptcha Solving**
+# Frequently Asked Questions Regarding hCaptcha Solving 
 
 1. **Captcha takes too long to solve**  
    **Answer:** hCaptcha may take longer to solve than standard text or graphical captchas. The delays are due to both the complexity of the challenges and the need to wait for an operator's response or a spot in the service's queue.
